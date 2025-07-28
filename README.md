@@ -1,6 +1,6 @@
 # Autoencoders
 
-This project explores various methods for training autoencoders on the CIFAR-10 dataset, including contrastive learning and denoising objectives. We evaluate the quality of learned representations using reconstruction loss, classification performance, and latent space visualization.
+This project explores various methods for training autoencoders on the CIFAR-10 dataset and MNIST dataset, including contrastive learning and denoising objectives. We evaluate the quality of learned representations using reconstruction loss, classification performance, and latent space visualization.
 
 ## Files
 
